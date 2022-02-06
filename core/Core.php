@@ -23,7 +23,7 @@ class Core {
             $parameters = !empty($url) ? $url : array();
         }
 
-        $global_path = '/opt/lampp/htdocs/projects/mvc/login-mvc/controllers/'.$controller.'.php';
+        $global_path = 'controllers/'.$controller.'.php';
 
         if (!file_exists($global_path) || !method_exists($controller, $method)) 
         {

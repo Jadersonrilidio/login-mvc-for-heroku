@@ -41,7 +41,7 @@ class Home {
                     $_SESSION['email'] = $email;
                     $_SESSION['password'] = $password;
 
-                    header('location: /projects/mvc/login-mvc/privateArea');
+                    header('location: /privateArea');
                 }
                 else
                 {

@@ -4,7 +4,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width">
 
-	<link rel="stylesheet" type="text/css" href="/projects/mvc/login-mvc/assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
 	<title>MVC Project</title>
 </head>
